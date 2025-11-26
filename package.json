@@ -1,0 +1,24 @@
+{
+  "name": "karma-reports-with-file-paths",
+  "version": "1.0.1",
+  "description": "Karma preprocessor that wraps test files with their file path as the suite name",
+  "main": "index.js",
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "karma-reporter",
+    "testing"
+  ],
+  "author": "Gayan Weerakutti",
+  "license": "MIT",
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  }
+}
