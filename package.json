@@ -1,6 +1,6 @@
 {
   "name": "karma-reports-with-file-paths",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Karma preprocessor that wraps test files with their file path as the suite name",
   "main": "index.js",
   "keywords": [
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/gayanW/karma-reports-with-file-paths.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/gayanW/karma-reports-with-file-paths/issues"
   }
 }
